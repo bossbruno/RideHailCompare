@@ -20,4 +20,9 @@ secrets.py
 .pyre
 coverage.xml
 
+# python models and trained models
+*.h5
+*.pkl
+*.pt
+*.pth
 
