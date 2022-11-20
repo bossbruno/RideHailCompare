@@ -1,0 +1,23 @@
+# data folder and files
+data/*.*
+
+# virtual environments, environment variables, secrets, credentials and paths
+.env
+.venv
+uberVenv/
+secrets.py
+
+# python and jypyter and IDEs config files and caches
+.ipynb_checkpoints
+*.py[cod]
+*$py.class
+.idea
+.vscode
+.vscode-test
+.history
+.pytest_cache
+.mypy_cache
+.pyre
+coverage.xml
+
+
